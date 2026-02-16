@@ -34,14 +34,6 @@ Sou desenvolvedor Full Stack em formação, com experiência em HTML, CSS e Java
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -64,6 +56,18 @@ Sou desenvolvedor Full Stack em formação, com experiência em HTML, CSS e Java
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
+### 🤖 Em Breve
+
+<img 
+    align="left" 
+    alt="Mongo DB" 
+    title="Mongo DB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
 <img 
     align="left" 
     alt="Node Js" 
@@ -74,11 +78,12 @@ Sou desenvolvedor Full Stack em formação, com experiência em HTML, CSS e Java
 />
 <img 
     align="left" 
-    alt="Mongo DB" 
-    title="Mongo DB"
+    alt="React"
+    title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <br/>
 <br/>
