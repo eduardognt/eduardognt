@@ -56,9 +56,9 @@ Sou desenvolvedor Full Stack em formação, com experiência em HTML, CSS e Java
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br/>
 
-
-### 🤖 Em Breve
+### 💻 Em Breve
 
 <img 
     align="left" 
