@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou desenvolvedor Full Stack em formação, com experiência em HTML, CSS e JavaScript, criando projetos práticos com foco em interfaces responsivas, organização de código e boa experiência do usuário. Atualmente estou aprofundando meus estudos em Node.js e seguindo evoluindo para tecnologias como React e MongoDB, sempre buscando aprender na prática e melhorar a cada projeto. Gosto de desafios, de resolver problemas e de transformar ideias em aplicações funcionais. 🚀
+Sou desenvolvedor Full Stack em formação, com experiência em HTML, CSS e JavaScript, criando projetos práticos com foco em interfaces responsivas, organização de código e boa experiência do usuário. Atualmente estou aprofundando meus estudos em React e seguindo evoluindo para tecnologias como Node.js e MongoDB, sempre buscando aprender na prática e melhorar a cada projeto. Gosto de desafios, de resolver problemas e de transformar ideias em aplicações funcionais. 🚀
 
 ---
 
